@@ -31,7 +31,7 @@ In short, this script aims at automatic installation + configuration of Sublime 
 
  1. Installs `Sublime Text 3` with `apt-get` or `brew`
  2. Installs `Package Control`
- 3. Instals your desired theme that you backup in the `./themes` folder
+ 3. Installs your desired theme that you backup in the `./themes` folder
  4. Load your default configurations that you have in `./user-settings`
  5. Configure projects (either single or multiple projects at a time)
 
